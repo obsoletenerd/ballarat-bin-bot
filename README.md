@@ -25,3 +25,7 @@ Requires the following libraries (all available via Arduino IDE Library Manager)
 - ... that's it, give it a few seconds and you'll start seeing your bin dates.
 
 If you get an "Address Error!" it means it couldn't find an exact match for your address. Go back and edit Line 15 again and re-compile/copy/etc. You won't need to do the WiFiManager stuff again.
+
+## Notes
+
+This is a very early version with the ultimate goal of having a 3D printed enclosure with LEDs showing which bins are next due out, as well as a second version of this project that uses an e-paper display and battery so it doesn't need constant USB power.
