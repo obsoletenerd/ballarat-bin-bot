@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/46561474/219606633-0a7f8ff3-060c-499f-b1f5-e33ac08f0b8d.png)
+
 # Ballarat Bin Bot
 
 An ESP32 project that displays Ballarat bin collection times for your specific address.
